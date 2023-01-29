@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Google Maps API Key (sign up on [Google Cloud Platform](https://cloud.google.com/) to get one)
 
 ### Installing
-- Clone the repository: `git clone https://github.com/your-username/ip-info.git`
+- Clone the repository: `git clone https://github.com/ShiponKarmakar/ip-info.git`
 - Create a new file `config.php` in the root directory and add the following code:
 
 ```php
