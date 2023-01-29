@@ -34,3 +34,5 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Support
 If you have any questions or issues, please open an issue in the GitHub repository or reach out to the IPinfo team for support.
+
+[![Linkedin](https://res.cloudinary.com/ketney/image/upload/v1675016901/Linkedin-Logo-2011-2019-140x35_pnmlys.png)](https://www.linkedin.com/in/shiponkarmakar/)
