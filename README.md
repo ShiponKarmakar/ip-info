@@ -1,5 +1,6 @@
 # IP Info Check
 This is a PHP class that allows you to retrieve details about an IP address using the IPinfo API. The class utilizes the Tailwind CSS framework for styling and also allows the user to copy the IP address to their clipboard.
+#### [***Live Demo***](https://getip.univahost.com/)
 
 ![](https://res.cloudinary.com/ketney/image/upload/v1675016087/IP_Info_Check_PHP_Script_c8ryuf.png)
 
